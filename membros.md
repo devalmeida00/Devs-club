@@ -7,7 +7,7 @@ Adicione seu perfil seguindo as instruções do canal de introdução!
 
 | Nome | GitHub | Especialidade |
 | :--- | :--- | :--- |
-| Marcos Miguel Almeida | [Acessar Perfil](https://github.com/devalmeida00) | Front-end / JavaScript |
+| Marcos Miguel A. de Andrade | [Acessar Perfil](https://github.com/devalmeida00) | Front-end / JavaScript |
 
 ---
 *Para adicionar seu nome, faça um Pull Request seguindo o padrão da tabela acima.*
